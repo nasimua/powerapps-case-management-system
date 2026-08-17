@@ -11,7 +11,7 @@ A case management application built with Microsoft Power Apps, Dataverse, and Po
   - Total Cases
   - Open Cases
   - Critical Cases
-- Automated email notifications using Power Automate
+- Automated email notifications for critical cases using Power Automate
 
 ## Technology Stack
 
