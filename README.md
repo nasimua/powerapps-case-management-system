@@ -35,7 +35,7 @@ Email Notifications
 ## Screenshots
 
 ### Dashboard
-Screenshots/Dashboard.png
+<img src="Screenshots/Dashboard.png" width="50"/>
 
 ### Case List
 Screenshots/Case List.png
