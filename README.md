@@ -40,6 +40,18 @@ Email Notifications
 ### Case List
 <img src="Screenshots/Case List.png" width="150"/>
 
+### Case Details
+<img src="Screenshots/Case Details.png" width="150"/>
+
+### New Case
+<img src="Screenshots/New Case Form.png" width="150"/>
+
+### Edit Case
+<img src="Screenshots/Edit Case Form.png" width="150"/>
+
+### Power Automate Flow
+<img src="Screenshots/Power Automate Flow.png" width="150"/>
+
 
 ## Author
 
