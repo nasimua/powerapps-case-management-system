@@ -35,10 +35,10 @@ Email Notifications
 ## Screenshots
 
 ### Dashboard
-<img src="Screenshots/Dashboard.png" width="50"/>
+<img src="Screenshots/Dashboard.png" width="150"/>
 
 ### Case List
-Screenshots/Case List.png
+<img src="Screenshots/Case List.png" width="150"/>
 
 
 ## Author
