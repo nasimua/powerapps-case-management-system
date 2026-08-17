@@ -34,13 +34,12 @@ Email Notifications
 
 ## Screenshots
 
-Includes screenshots of:
+### Dashboard
+Screenshots/Dashboard.png
 
-- Dashboard
-- Case List
-- Case Details
-- New Case Form
-- Power Automate Flow
+### Case List
+Screenshots/Case List.png
+
 
 ## Author
 
